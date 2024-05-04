@@ -61,14 +61,14 @@
     background-color: yellow;
 }
 
-.todos_single--text {
+.todos_single-text {
     flex: 1;
     padding: 5px;
     border: none;
     font-size: 20px;
 }
 
-.todos_single--text:focus {
+.todos_single-text:focus {
     outline: none;
 }
 
